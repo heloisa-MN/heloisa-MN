@@ -8,7 +8,7 @@
 - 📱 **Desenvolvendo apps Android** que ajudam as pessoas no dia a dia  
 - 📚 Focada em **aprender** e **melhorar** sempre  
 - 🔧 Aberta a **colaborações**  
-- 💼 Oferecendo serviços para desenvolvimento Android  
+
 
 ---
 
