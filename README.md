@@ -17,7 +17,7 @@
 
 
 ## 💡 Sobre mim
-- 🌱 Atualmente estudando: **Anteligencia Artificial**  
+- 🌱 Atualmente estudando: **Inteligência Artificial**  
 - 🛠️ Trabalhando em: **Loterica online, lanhouse**   
 - 🎮 Hobbies: **jogos,filmes,musicas**  
 
